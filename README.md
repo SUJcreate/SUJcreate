@@ -9,8 +9,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about my philosophy regarding human creativity
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: Him/He
+
 - ⚡ Fun fact: There are two ways to write goel/goyal
 -->
+😄 Pronouns: Him/He
+💬 Ask me about my philosophy regarding human creativity
